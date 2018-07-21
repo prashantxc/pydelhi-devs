@@ -1,22 +1,12 @@
-Source: node-ip-regex
+Package: node-ip-regex
+Version: 3.0.0-1
+Architecture: all
+Maintainer: Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>
+Installed-Size: 17
+Depends: nodejs
 Section: javascript
 Priority: optional
-Maintainer: Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>
-Uploaders: Prashant Singh <prashantxc8@gmail.com>
-Build-Depends:
- debhelper (>= 9)
- , dh-buildinfo
- , nodejs
-Standards-Version: 4.1.1
 Homepage: https://github.com/sindresorhus/ip-regex#readme
-Vcs-Git: https://anonscm.debian.org/git/pkg-javascript/node-ip-regex.git
-Vcs-Browser: https://anonscm.debian.org/cgit/pkg-javascript/node-ip-regex.git
-
-Package: node-ip-regex
-Architecture: all
-Depends:
- ${misc:Depends}
- , nodejs
 Description: FIX write the Debian package description
  Write the short and long descriptions for the Debian package as
  explained in the Developer's Reference, §6.2.1 – §6.2.3.

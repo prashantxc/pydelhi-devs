@@ -1,6 +1,5 @@
-node-ip-regex (3.0.0-1) UNRELEASED; urgency=low
+node-ip-regex (3.0.0-1) unstable; urgency=low
 
   * Initial release (Closes: #nnnn)
-  *
-
- -- Prashant Singh <prashantxc8@gmail.com>  Sat, 21 Jul 2018 08:11:36 +0000
+ 
+ -- Prashant Singh <prashantxc8@gmail.com>  Sat, 21 Jul 2018 08:57:04 +0000
